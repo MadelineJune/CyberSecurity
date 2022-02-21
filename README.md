@@ -68,7 +68,9 @@ Customers' personally identifiable information (PII) — names, addresses, natio
 ## Types of attackers
  
 ♦ Black Hat Hackers: Black Hat Hackers are basically "Bad Hackers" who gain unauthorized access to your systems to steal important information. They usually attack to earn a massive amount by selling data or sometimes do it for fun. Anyone can be Black Hat Hackers, from beginners to advanced hackers, as their main motive is to steal important information from victims.
+
 ♦ White Hat Hackers: The "Good Hackers" are known as White Hat Hackers. The process is known as "Ethical Hacking." These hackers work for several organizations and companies that launch attacks on their websites to check for security vulnerabilities. They use the penetration testing method to ensure that their security systems are in place. 
+
 ♦ Grey Hat Hackers: As you can figure out from the name itself, Grey Hat Hackers are those hackers who are known both for "Bad Hat Hackers" and "White Hackers" as well. They perform attacks, and if they find any vulnerability, they inform the company or the organization about it. But, they also demand compensation for the information, and if not rewarded with the same, they also warn about exploiting the vulnerabilities.
 
 
@@ -132,8 +134,11 @@ According to Blumira's Director of Security Mike Behrmann, other security soluti
 ## Cyber Security myths
 
 •	People think that cybercriminals are primarily outsiders. In truth, hostile insiders, working for themselves or collaborating with outside hackers, are frequently the source of cybersecurity breaches. Insiders can be members of well-organized groups with nation-state assistance.
+
 •	The dangers are well-known to everyone, so there are low chances of attack. Thousands of new vulnerabilities have been reported in both old and new applications and devices, indicating that the risk surface is growing. Human error is becoming more common, particularly for careless workers or contractors that inadvertently trigger a data breach.
+
 •	People in business think that their industries are safe. Cyber adversaries take advantage of the communication network requirements of virtually every government and private-sector body, threatening every enterprise.
+
 •	The attack avenues have been stifled. Cybercriminals are always coming up with new attack vectors, such as Linux systems, operational technology (O.T.O.T.), Internet of Things (IoT) devices, and cloud environments.
 
 
@@ -147,23 +152,32 @@ According to Blumira's Director of Security Mike Behrmann, other security soluti
 •	Red Cross Server Hack: The Red Cross has discovered that an unpatched vulnerability led to compromising personal data belonging to more than half a million "extremely susceptible" persons. The International Committee of the Red Cross (ICRC) said on Wednesday (February 16), nearly a month after discovering and announcing the hack, that its investigation had come across a very advanced and planned attack. To disguise themselves as legitimate users or administrators, attackers tailored harmful code for ICRC servers and anti-malware systems, used sophisticated obfuscation techniques, and used hacking tools. After discovering the incident on January 18, the ICRC says it took the hacked servers offline. On November 9, 2021, it believed its servers were compromised. According to the report, the attack vector was a major REST API authentication bypass in Zoho ManageEngine ADSelfService Plus, password management, and single sign-on (SSO) platform fixed in September 2021.
 
 •	Russian nation-state hackers are after critical defense material from U.S. contractors: The F.B.I. has cautioned that Russian state-sponsored spies have been targeting U.S. contractor networks to get essential defense information for six months. According to a joint statement from C.I.S.A., the F.B.I., and the N.S.A., major and minor C.D.C.s and subcontractors have targeted various cybersecurity processes and resources. From January 2020 to February 2022, the U.S. Cybersecurity and Infrastructure Security Agency (C.I.S.A.) detected "frequent targeting" of U.S. cleared defense contractors (C.D.C.s), according to a statement released on February 16.
+
 •	Cyber Attack at Vodafone Portugal: A planned and malicious cyber-attack on Vodafone Portugal knocked out mobile networks across the country. The outage disrupted customers' access to 4G and 5G networks and digital T.V. and SMS services, which began on Monday evening (February 7). Vodafone Portugal claimed in a statement that as soon as the first symptom of a network fault was noticed, they responded quickly to identify and restore services. They claimed to have regained mobile voice and data services exclusively on the 3G network in practically every country. Still, due to the scope and severity of the illegal conduct they were subjected to, all other services will require meticulous and extensive work. They also said that no customer data had been accessed or compromised due to the incident.
 
 • Famous Sparrow: A new cyberespionage group called “FamousSparrow” is found targeting hotels, Governments, and private companies worldwide. They are using ProxyLogon exploit (A vulnerability of Microsoft Exchange) along with their custom backdoor, “SparrowDoor” to target hotels.
 
 According to ESET researchers, the group has been active since August, 2019. Telemetry reports revealed that this group has exploited Microsoft Exchange vulnerabilities since March 3, 2021 i.e., the day after Microsoft released security patches. The group is mainly targeting hotels; however they have also targeted Government organizations, international companies, and law firms in dozens of countries.
+
 Matthieu Faou and his colleague Tahseen Bin Taj uncovered “FamousSparrow”. Experts found connections between FamousSparrow and SparklingGoblinand and DRBControl group. However, researchers say that this group has its own entity. They most likely share access to victims and tools. Faou said that the group is not strong enough on the malware part, but has evolved since before in targeting. He also added that, they mainly target hotels so that they can keep track of their targets’ travel habits. They can also breach hotels’ WiFi infrastructure to spy on the non-encrypted network traffic.
+
 They deploy several custom tools such as variants of Mimikatz, NetBIOS scanner Nbtscan, and a small utility that drops ProcDump on disk, which drops another process to gather in-memory secrets i.e., credentials. They also dropped one of their own custom tools “SparrowDoor” that could fully control any compromised machine by executing arbitrary command or exfiltrating content of files.
 
 
 ## Protection against Cyber Attacks
 
 This generation is all about technology and social media. With the advantages of these advancements also comes a technical disadvantage which forces us to surrender our private accounts unknowingly. You must know all of these that I will discuss below to keep your system and version safe.
+
 • Secure passwords: You know about securing your system as well as all your essential files, but do you know that you need to keep your password secured too? Keep yourself safe from all the online attacks; keep your passwords protected by using solid and extensive passwords.
+
 • Privacy: Many of you may think you don't have any private data, so you don't need privacy. But that's completely wrong! Your data are all over the apps and websites that you use online. This data which you may not think is important, is a goldmine for attackers.
+
 • Data breaches: Data breaches are another essential security issue that you need to know. Attackers target companies to obtain information about individual workers. These data are profitable as attackers can sell them on the black market to earn a massive amount. 
+
 • Safe computing: Many threats are on standby when you are computing, and you cannot be saved from all threats immediately, which is a disadvantage of technology. However, if you use computer Internet Security, you can be protected from many dangers, as the application will warn you before the occurrence. 
-• Mobile protection: Nowadays, we have shifted to mobiles and tablets and stored our data more than laptops or desktops. Cybercriminals are always on standby to insert themselves between our devices and the network. Thus, I suggest you learn more about mobile security and apply them to save yourself from all these threats. 
+
+• Mobile protection: Nowadays, we have shifted to mobiles and tablets and stored our data more than laptops or desktops. Cybercriminals are always on standby to insert themselves between our devices and the network. Thus, I suggest you learn more about mobile security and apply them to save yourself from all these threats.
+
 • Online scams: These are the threats that not only a technically mastered attacker can launch, but anyone with the basic knowledge can attack. You can see that nowadays, most people fall for such scams through email or phone calls. These scams are launched to gain A.T.M. pins or mobile data. You may think yourself too technically mastered to fall for these scams, but you never know! So, learn about all these scams and be alert while handling your secured data.
 
 
