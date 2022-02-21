@@ -13,7 +13,7 @@ Customers' personally identifiable information (PII) — names, addresses, natio
 ## Categories of Cyber Security
 
 ### Cyber Security applies in various categories such as:
-•	Network Security: The practice of safeguarding a computer server from attackers, presumably planned hackers or indiscriminate malware, is known as network security.
+•	**Network Security: The practice of safeguarding a computer server from attackers, presumably planned hackers or indiscriminate malware, is known as network security.
 
 •	Information Security: Data integrity and privacy are protected by information security, both in retention and transportation.
 
