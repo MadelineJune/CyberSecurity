@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The technique of protecting computers, servers, mobile devices, electronic systems, networks, and data from hostile intrusions is known as cyber security. Threats to networked systems and applications can come from inside and outside an organization, and cybersecurity solutions are designed to combat them.
+The technique of protecting computers, servers, mobile devices, electronic systems, networks, and data from hostile intrusions is known as cyber security. Threats to networked systems and applications can come from inside and outside an organization, and [cybersecurity solutions are designed](https://assignmentdude.com/) to combat them.
 
 Cyberattacks are simply exploitation of computer systems or networks. Cybercriminals launch these attacks to steal secured information. Not only can cybercriminals steal information, but they can also alter, delete, disable, manipulate or destroy the data. The attacks are launched by several methods such as phishing, malware, MitM, SQL injection, Denial-of-Service, etc. Attackers send malware through software, app updates, or any link.
 
@@ -13,6 +13,7 @@ Customers' personally identifiable information (PII) — names, addresses, natio
 ## Categories of Cyber Security
 
 ### Cyber Security applies in various categories such as:
+
 •	**Network Security**: The practice of safeguarding a computer server from attackers, presumably planned hackers or indiscriminate malware, is known as network security.
 
 •	**Information Security**: Data integrity and privacy are protected by information security, both in retention and transportation.
@@ -76,7 +77,7 @@ Customers' personally identifiable information (PII) — names, addresses, natio
 
 ## Latest Cyber Threats
 
-Many cyber threats are continuously reported. Talking about some of the most recent cyber threats that the U.S.U.S., U.K.U.K., and Australia have reported:
+Many cyber threats are continuously reported. Talking about some of the most recent cyber threats that the U.S., U.K., and Australia have reported:
 
 **• Dridex malware**: Dridex is a form of malware that targets its victim's banking information. Dridex is a multi-purpose financial trojan. Since 2014, it has infected systems using phishing emails or existing malware.
 
@@ -84,7 +85,7 @@ It has caused enormous financial losses equivalent to hundreds of millions of do
 
 [**The US Department of Justice (DoJ)**](https://www.justice.gov/) charged the leader of an organised cyber-criminal cell in December 2019 for his role in the global Dridex malware campaign. This nefarious attempt affects the general public, government, infrastructure, and industry all across the world.
 
-**The National Cyber Security Centre of the United Kingdom** encourages the public to ensure devices are patched, antivirus is turned on and up to date, and files are backed up.
+[**The National Cyber Security Centre of the United Kingdom**](https://www.ncsc.gov.uk/) encourages the public to ensure devices are patched, antivirus is turned on and up to date, and files are backed up.
 
 
 ## How to detect Dridex malware?
