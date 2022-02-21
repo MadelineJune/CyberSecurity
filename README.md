@@ -29,10 +29,15 @@ Customers' personally identifiable information (PII) — names, addresses, natio
 ## Common types of attacks
  
 • Malware: Malware is used to describe malicious software, spyware, or worms. Malware is inserted into a system through networks in any link or email attachment. Once you click that link, malware or harmful software gets installed. Once installed, it can manipulate your system's data, block access to the network, and obtain information by transmitting data from the hard drive. 
+
 • Phishing: This is the most common cyber threat. The virus is transmitted to steal important information such as credential login information or send malware to the system to spy. The malware is sent through email that appears to be coming from an original and reputable source. 
+
 • Man-in-the-middle attack (MitM): This attack is also known as an eavesdropping attack as the attackers insert themselves into a two-party transaction. In simple words, on an unsecured WiFi network, the attackers can insert themselves in between the user's device and the web. As a result, the user will unknowingly pass away all the information to the attackers. After the virus has breached the target's device, it can install the software to obtain all the victim's information.
+
 • SQL injection: Structured Query Language attack or SQL attack is a dangerous form of malicious attack that attackers can launch by simply injecting malicious code to the server. If the attacker sends a malicious code to the server that uses SQL, it will reveal all the information to the attacker that it would not normally do. The attacker can also attack a server by simply writing and submitting the malicious code in the website's search box.
+
 • Brute force attack: This is a modern-day attack that targets different social media accounts and websites with private user profiles. In a brute force attack, an attacker guesses and makes a combined list of usernames and passwords, and then they brute force those usernames and passwords in the website server to access the victim's account.
+
 • Ransomware: Ransomware is a sort of virus that encrypts files, data, or computers and threatens to delete or destroy the data unless a ransom is paid to the hackers who began the attack. Recent ransomware attacks have targeted state and municipal governments, which are easier to hack than businesses and are under pressure to pay ransom to restore critical apps and websites that citizens rely on.
 
 
@@ -42,13 +47,21 @@ Customers' personally identifiable information (PII) — names, addresses, natio
 ## Common types of attacks
 
 • Malware: Malware is used to describe malicious software, spyware, or worms. Malware is inserted into a system through networks in any link or email attachment. Once you click that link, malware or harmful software gets installed. Once installed, it can manipulate your system's data, block access to the network, and obtain information by transmitting data from the hard drive. 
+
 • Phishing: This is the most common cyber threat. The virus is transmitted to steal important information such as credential login information or send malware to the system to spy. The malware is sent through email that appears to be coming from an original and reputable source. 
+
 • Man-in-the-middle attack (MitM): This attack is also known as an eavesdropping attack as the attackers insert themselves into a two-party transaction. In simple words, on an unsecured WiFi network, the attackers can insert themselves in between the user's device and the web. As a result, the user will unknowingly pass away all the information to the attackers. After the virus has breached the target's device, it can install the software to obtain all the victim's information.
+
 • SQL injection: Structured Query Language attack or SQL attack is a dangerous form of malicious attack that attackers can launch by simply injecting malicious code to the server. If the attacker sends a malicious code to the server that uses SQL, it will reveal all the information to the attacker that it would not normally do. The attacker can also attack a server by simply writing and submitting the malicious code in the website's search box.
+
 • Brute force attack: This is a modern-day attack that targets different social media accounts and websites with private user profiles. In a brute force attack, an attacker guesses and makes a combined list of usernames and passwords, and then they brute force those usernames and passwords in the website server to access the victim's account.
+
 • Ransomware: Ransomware is a type of computer virus that encrypts files, data, or systems and threatens to erase or destroy the data unless the hackers who started the attack are paid a ransom. Recent ransomware attacks have targeted state and municipal governments, which are easier to hack than businesses and are under pressure to pay ransom to restore critical apps and websites that citizens rely on.
+
 • Insider Threats: Current or former employees, business partners, contractors, or anyone who has previously had access to systems or networks and misused their access permissions can all be considered insider risks. Traditional security solutions that focus on external threats, like as firewalls and intrusion detection systems, may be blind to insider dangers.
+
 • Distributed denial-of-service (DDoS) attacks: A DDoS attack damages a server, website, or network with traffic, usually from numerous synchronized systems, to bring it down. DDoS assaults use the simple network management protocol (SNMP) used by modems, printers, switches, routers, and servers to overwhelm enterprise networks.
+
 • Advanced persistent threats (A.P.T.s): An A.P.T. is when an attacker or a gang of attackers enter a system and go undiscovered for a long time. The intruder keeps networks and systems untouched to spy on company activities and collect essential data while evading the triggering of protective countermeasures. An example of an A.P.T. is the recent Solar Winds penetration of U.S. federal computers.
 
 
