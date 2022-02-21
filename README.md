@@ -82,20 +82,25 @@ Many cyber threats are continuously reported. Talking about some of the most rec
 
 It has caused enormous financial losses equivalent to hundreds of millions of dollars by stealing passwords, banking credentials, and personal data used in fraudulent transactions.
 
-**The US Department of Justice (DoJ)** charged the leader of an organised cyber-criminal cell in December 2019 for his role in the global Dridex malware campaign. This nefarious attempt affects the general public, government, infrastructure, and industry all across the world.
+[**The US Department of Justice (DoJ)**](https://www.justice.gov/) charged the leader of an organised cyber-criminal cell in December 2019 for his role in the global Dridex malware campaign. This nefarious attempt affects the general public, government, infrastructure, and industry all across the world.
 
 **The National Cyber Security Centre of the United Kingdom** encourages the public to ensure devices are patched, antivirus is turned on and up to date, and files are backed up.
 
 
 ## How to detect Dridex malware?
+
 As the threat evolves, it isn't easy to detect this malware. Perhaps, individuals can utilize technologies that focus on signature-based threat detection to see Dridex. Some tools, for example, may use machine learning to model network data and understand patterns of regular user activity. Unusual traffic can then be noticed and investigated further. Some virus detection tools may function if it detects unusual behavior or.exe files. As a result, some anti-malware programs will see Dridex.
 
 
 ## Protection against Dridex
 •	When opening email attachments from unknown senders, be cautious.
+
 •	Don't open files given to you from unfamiliar or dubious email addresses.
+
 •	Download files from reputable sources only.
+
 •	Maintain the most recent versions of your software and browsers.
+
 •	Educate co-workers on how to spot dangerous spam.
 
 
@@ -105,9 +110,13 @@ It occurs when a criminal creates a false online identity to earn confidence and
 
 ## How to detect Romance scams?
 You can detect scammers in the following ways:
+
 •	 Fast to fall in love. Claims to be in another country on business or for military duty.
+
 •	They demand money and attempt to entice you away from the dating service.
+
 •	Claims to require funds for an emergency, medical bills, or travel.
+
 •	They plan to visit but cannot do so due to a family emergency.
 
 ## Protection against Romance Scams
