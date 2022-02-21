@@ -100,7 +100,8 @@ As the threat evolves, it isn't easy to detect this malware. Perhaps, individual
 
 
 
-**• Romance scams**: It occurs when a criminal creates a false online identity to earn confidence and affection. Romance scams happen when a criminal makes a mistaken online identity to gain trust and appreciation. The scammer then manipulates and steals from the victim by creating the illusion of a loving or close relationship.
+## Romance scams: 
+It occurs when a criminal creates a false online identity to earn confidence and affection. Romance scams happen when a criminal makes a mistaken online identity to gain trust and appreciation. The scammer then manipulates and steals from the victim by creating the illusion of a loving or close relationship.
 
 ## How to detect Romance scams?
 You can detect scammers in the following ways:
@@ -120,12 +121,13 @@ You can detect scammers in the following ways:
 
 
 
-• **Emotet Malware**: Emotet is a Trojan horse disseminated mainly through spam emails. Malicious scripts, macro-enabled document files, and malicious links are possible ways to get infected. Emotet emails may have familiar branding to make them appear natural. Emotet may utilize enticing wording such as "Your Invoice," "Payment Details," or possibly a forthcoming shipment from well-known parcel businesses to convince people to click the malicious files. The Australian Cyber Security Centre issued a warning to national entities in late 2019 about a widespread global cyber threat posed by the Emotet virus.
+## Emotet Malware: 
+Emotet is a Trojan horse disseminated mainly through spam emails. Malicious scripts, macro-enabled document files, and malicious links are possible ways to get infected. Emotet emails may have familiar branding to make them appear natural. Emotet may utilize enticing wording such as "Your Invoice," "Payment Details," or possibly a forthcoming shipment from well-known parcel businesses to convince people to click the malicious files. The Australian Cyber Security Centre issued a warning to national entities in late 2019 about a widespread global cyber threat posed by the Emotet virus.
 
 ## How to detect Emotet malware?
 Organizations can use email security technology like Proofpoint Advanced Threat Protection to help detect known threats, malicious attachments, and unsafe URLs, or use a sandbox security platform like Palo Alto Networks Wildfire. It integrates with your next-generation firewall to detect and analyze known or unknown attacks, including malware, to discover and defend against malware like Emotet.
 
-*According to Blumira's Director of Security Mike Behrmann*, other security solutions for an additional layer of defense include cloud-based next-generation antivirus (N.G.A.V.), which can help you spot threats faster based on behavioral detection.
+*According to Blumira's Director of Security Mike Behrmann*, other security solutions for an additional layer of defense include cloud-based **next-generation antivirus (N.G.A.V.)**, which can help you spot threats faster based on behavioral detection.
 
 ## Protection against Emotet Malware
 •	Keep your computer and endpoints up to date with the newest Microsoft Windows patches.
@@ -160,9 +162,9 @@ Organizations can use email security technology like Proofpoint Advanced Threat 
 
 • **Famous Sparrow**: A new cyberespionage group called “FamousSparrow” is found targeting hotels, Governments, and private companies worldwide. They are using ProxyLogon exploit (A vulnerability of Microsoft Exchange) along with their custom backdoor, “SparrowDoor” to target hotels.
 
-According to ESET researchers, the group has been active since August, 2019. Telemetry reports revealed that this group has exploited Microsoft Exchange vulnerabilities since March 3, 2021 i.e., the day after Microsoft released security patches. The group is mainly targeting hotels; however they have also targeted Government organizations, international companies, and law firms in dozens of countries.
+**According to ESET researchers**, the group has been active since August, 2019. Telemetry reports revealed that this group has exploited Microsoft Exchange vulnerabilities since March 3, 2021 i.e., the day after Microsoft released security patches. The group is mainly targeting hotels; however they have also targeted Government organizations, international companies, and law firms in dozens of countries.
 
-Matthieu Faou and his colleague Tahseen Bin Taj uncovered “FamousSparrow”. Experts found connections between FamousSparrow and SparklingGoblinand and DRBControl group. However, researchers say that this group has its own entity. They most likely share access to victims and tools. Faou said that the group is not strong enough on the malware part, but has evolved since before in targeting. He also added that, they mainly target hotels so that they can keep track of their targets’ travel habits. They can also breach hotels’ WiFi infrastructure to spy on the non-encrypted network traffic.
+Matthieu Faou and his colleague Tahseen Bin Taj uncovered **“FamousSparrow”**. Experts found connections between FamousSparrow and SparklingGoblinand and DRBControl group. However, researchers say that this group has its own entity. They most likely share access to victims and tools. Faou said that the group is not strong enough on the malware part, but has evolved since before in targeting. He also added that, they mainly target hotels so that they can keep track of their targets’ travel habits. They can also breach hotels’ WiFi infrastructure to spy on the non-encrypted network traffic.
 
 They deploy several custom tools such as variants of Mimikatz, NetBIOS scanner Nbtscan, and a small utility that drops ProcDump on disk, which drops another process to gather in-memory secrets i.e., credentials. They also dropped one of their own custom tools “SparrowDoor” that could fully control any compromised machine by executing arbitrary command or exfiltrating content of files.
 
