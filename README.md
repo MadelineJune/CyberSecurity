@@ -1,7 +1,7 @@
 # CyberSecurity
 
 
-Introduction
+##Introduction
 
 The technique of protecting computers, servers, mobile devices, electronic systems, networks, and data from hostile intrusions is known as cyber security. Threats to networked systems and applications can come from inside and outside an organization, and cybersecurity solutions are designed to combat them.
 
@@ -10,7 +10,7 @@ Cyberattacks are simply exploitation of computer systems or networks. Cybercrimi
 Customers' personally identifiable information (PII) — names, addresses, national identification numbers, and credit card information — is targeted by cybercriminals, who then sell the data on underground digital marketplaces. Customer trust is frequently lost due to compromised PII, resulting in regulatory fines and legal action.
 
 
-Categories of Cyber Security
+##Categories of Cyber Security
 
 Cyber Security applies in various categories such as:
 •	Network Security: The practice of safeguarding a computer server from attackers, presumably planned hackers or indiscriminate malware, is known as network security.
@@ -26,7 +26,7 @@ Cyber Security applies in various categories such as:
 •	Disaster recovery and business continuity: It is used to describe how a company reacts in the case of a cyber-security breach or any other catastrophe that results in the loss of operations or data.
 
 
-Common types of attacks
+##Common types of attacks
  
 • Malware: Malware is used to describe malicious software, spyware, or worms. Malware is inserted into a system through networks in any link or email attachment. Once you click that link, malware or harmful software gets installed. Once installed, it can manipulate your system's data, block access to the network, and obtain information by transmitting data from the hard drive. 
 • Phishing: This is the most common cyber threat. The virus is transmitted to steal important information such as credential login information or send malware to the system to spy. The malware is sent through email that appears to be coming from an original and reputable source. 
@@ -39,7 +39,7 @@ Common types of attacks
 
 
 
-Common types of attacks
+##Common types of attacks
 
 • Malware: Malware is used to describe malicious software, spyware, or worms. Malware is inserted into a system through networks in any link or email attachment. Once you click that link, malware or harmful software gets installed. Once installed, it can manipulate your system's data, block access to the network, and obtain information by transmitting data from the hard drive. 
 • Phishing: This is the most common cyber threat. The virus is transmitted to steal important information such as credential login information or send malware to the system to spy. The malware is sent through email that appears to be coming from an original and reputable source. 
@@ -52,14 +52,14 @@ Common types of attacks
 • Advanced persistent threats (A.P.T.s): An A.P.T. is when an attacker or a gang of attackers enter a system and go undiscovered for a long time. The intruder keeps networks and systems untouched to spy on company activities and collect essential data while evading the triggering of protective countermeasures. An example of an A.P.T. is the recent Solar Winds penetration of U.S. federal computers.
 
 
-Types of attackers
+##Types of attackers
  
 ♦ Black Hat Hackers: Black Hat Hackers are basically "Bad Hackers" who gain unauthorized access to your systems to steal important information. They usually attack to earn a massive amount by selling data or sometimes do it for fun. Anyone can be Black Hat Hackers, from beginners to advanced hackers, as their main motive is to steal important information from victims.
 ♦ White Hat Hackers: The "Good Hackers" are known as White Hat Hackers. The process is known as "Ethical Hacking." These hackers work for several organizations and companies that launch attacks on their websites to check for security vulnerabilities. They use the penetration testing method to ensure that their security systems are in place. 
 ♦ Grey Hat Hackers: As you can figure out from the name itself, Grey Hat Hackers are those hackers who are known both for "Bad Hat Hackers" and "White Hackers" as well. They perform attacks, and if they find any vulnerability, they inform the company or the organization about it. But, they also demand compensation for the information, and if not rewarded with the same, they also warn about exploiting the vulnerabilities.
 
 
-Latest Cyber Threats
+##Latest Cyber Threats
 
 Many cyber threats are continuously reported. Talking about some of the most recent cyber threats that the U.S.U.S., U.K.U.K., and Australia have reported:
 
@@ -72,11 +72,11 @@ The US Department of Justice (DoJ) charged the leader of an organised cyber-crim
 The National Cyber Security Centre of the United Kingdom encourages the public to ensure devices are patched, antivirus is turned on and up to date, and files are backed up.
 
 
-How to detect Dridex malware?
+##How to detect Dridex malware?
 As the threat evolves, it isn't easy to detect this malware. Perhaps, individuals can utilize technologies that focus on signature-based threat detection to see Dridex. Some tools, for example, may use machine learning to model network data and understand patterns of regular user activity. Unusual traffic can then be noticed and investigated further. Some virus detection tools may function if it detects unusual behavior or.exe files. As a result, some anti-malware programs will see Dridex.
 
 
-Protection against Dridex
+##Protection against Dridex
 •	When opening email attachments from unknown senders, be cautious.
 •	Don't open files given to you from unfamiliar or dubious email addresses.
 •	Download files from reputable sources only.
